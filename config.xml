@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.villahouse" version="1" android-versionCode="1" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>빌라하우스</name>
+<widget id="com.dungzi.villahouse" version="5" android-versionCode="5" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>빌라정보통</name>
     <description>	
-        빌라하우스
+        빌라정보통
     </description>
     <author email="webplug@gmail.com" href="http://www.dungzi.com/">
         Dungzi Team
